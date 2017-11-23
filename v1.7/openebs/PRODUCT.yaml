@@ -1,0 +1,6 @@
+vendor: OpenEBS
+name: OpenEBS
+version: v0.4
+website_url: http://www.openebs.io/
+documentation_url: http://openebs.readthedocs.io/en/latest/index.html
+product_logo_url: http://www.openebs.io/styles/images/banner-icon.svg
